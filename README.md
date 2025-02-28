@@ -1,4 +1,5 @@
-## Hi there 👋
+## I'm currently working as a researcher and exploring questions related to breeding bird community changes at Long Point, Ontario, Canada. 
+## My research project is supported by Birds Canada, and the Long Point Bird Observatory. 
 
 <!--
 **jkpickering/jkpickering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
